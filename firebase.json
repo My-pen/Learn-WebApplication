@@ -1,10 +1,10 @@
-{t'td,tgpdtqdWgd
-  "database": {dj'jpdj'p@dyp@j@@j@pdp@p
+{
+  "database": {
     "rules": "database.rules.json"
   },
-  "hosting": {'dp'Jjtjtdptdjpt@M@TGdgwp'g"
+  "hosting": {
     "public": "public",
-    "ignore": [@jpJjは'Mp_g'@'dpgppgpg'j@w@mwj@'p'
+    "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
